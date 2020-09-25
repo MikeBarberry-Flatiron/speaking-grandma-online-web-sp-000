@@ -18,6 +18,7 @@ def speak_to_grandma(sentence)
     return "I LOVE YOU TOO PUMPKIN"
   else
     return "HUH?! SPEAK UP, SONNY"
+  end
 end
 
 speak_to_grandma("HELLO")
